@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -31,3 +30,5 @@ Thumbs.db
 
 # Test files
 test_*.py
+config.bat
+node_modules
